@@ -2,12 +2,6 @@ package com.naba.controller;
 
 public class Controller {
 	public void print(){
-		System.out.println("print");
-		System.out.println("print2");
-		System.out.println("print3");
-		System.out.println("print4");
-		System.out.println("print5");
-		System.out.println("print6");
-		System.out.println("print7");
+		System.out.println("Print 1");
 	}
 }
