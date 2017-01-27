@@ -5,5 +5,6 @@ public class Controller {
 		System.out.println("Print 1");
 		System.out.println("Print 2");
 		System.out.println("Print 3");
+		System.out.println("Print 5");
 	}
 }
