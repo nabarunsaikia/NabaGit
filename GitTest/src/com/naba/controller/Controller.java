@@ -8,5 +8,6 @@ public class Controller {
 		System.out.println("print4");
 		System.out.println("print5");
 		System.out.println("print6");
+		System.out.println("print7");
 	}
 }
